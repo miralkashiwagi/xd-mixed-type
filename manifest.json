@@ -1,13 +1,17 @@
 {
   "id": "56ee3da2",
   "name": "Mixed FontType",
+  "version": "1.0.0",
+  "description": "Japanese / European mixed typesetting",
+  "summary": "Set two font types for single font object",
+  "author": "miral_kashiwagi",
+  "helpUrl": "https://github.com/miralkashiwagi/xd-mixed-type",
   "host": [
     {
       "app": "XD",
       "minVersion": "21.0"
     }
   ],
-  "version": "1.0.0",
   "icons": [
     {
       "width": 48,
@@ -28,7 +32,7 @@
   "uiEntryPoints": [
     {
       "type": "panel",
-      "label": "Type Settings",
+      "label": "Mixed FontType",
       "panelId": "typesetting"
     }
   ]
