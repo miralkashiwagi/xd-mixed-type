@@ -1,0 +1,35 @@
+{
+  "id": "56ee3da2",
+  "name": "Mixed FontType",
+  "host": [
+    {
+      "app": "XD",
+      "minVersion": "21.0"
+    }
+  ],
+  "version": "1.0.0",
+  "icons": [
+    {
+      "width": 48,
+      "height": 48,
+      "path": "images/48.png"
+    },
+    {
+      "width": 96,
+      "height": 96,
+      "path": "images/96.png"
+    },
+    {
+      "width": 192,
+      "height": 192,
+      "path": "images/192.png"
+    }
+  ],
+  "uiEntryPoints": [
+    {
+      "type": "panel",
+      "label": "Type Settings",
+      "panelId": "typesetting"
+    }
+  ]
+}
