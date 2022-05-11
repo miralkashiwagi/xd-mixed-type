@@ -2,7 +2,7 @@ Adobe XD plugin to apply different fonts to half-width alphanumerical characters
 
 # Details
 - "En Font" apply to characters that match this regular expression:
-  - `/^[a-zA-Z0-9!-/:-@¥[-`{-~]*$/`
+  - ```/^[a-zA-Z0-9!-/:-@¥[-`{-~]*$/```
 - "JP Font" apply to all characters except the above.
 - You need to use a font suitable for text objects that contain Japanese and English characters.
 
