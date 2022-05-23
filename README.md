@@ -8,3 +8,7 @@ Adobe XD plugin to apply different fonts to half-width alphanumerical characters
 
 # Support
 If you have any problems, please report an issue at https://github.com/miralkashiwagi/xd-mixed-type/issues.
+
+# 使い方について
+下記の記事に簡単にまとめました
+https://deep-space.blue/web/2216#index_id0
